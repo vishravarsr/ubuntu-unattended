@@ -113,11 +113,5 @@ Just fire off the start.sh script in your users' home directory to complete the 
 
 ```$ sudo ~/start.sh``` 
 
-### That's it, enjoy! :)
-
-## Troubleshooting
-
-If you run into any issues, please create an issue; I am by no means a shell/bash expert (far from it), and it took me a while to compile this script into something that's easy to use and just works, but I'm happy to help where I can! :)
-
 ## License
 MIT

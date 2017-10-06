@@ -4,7 +4,7 @@ This simple script will create an unattended Ubuntu ISO from start to finish. It
 
 Created by: **Rinck Sonnenberg (Netson)**
 
-See: https://github.com/netson/ubuntu-unattended/edit/master/README.md
+See: https://github.com/netson/ubuntu-unattended
 
 ## License
 MIT
